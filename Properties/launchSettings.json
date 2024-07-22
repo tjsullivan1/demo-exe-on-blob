@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TestExe": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7015",
+      "launchBrowser": false
+    }
+  }
+}
